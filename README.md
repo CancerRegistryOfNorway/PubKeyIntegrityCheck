@@ -12,7 +12,7 @@ Before running the script, ensure the following dependencies are installed in yo
 - `os`
 - `subprocess`
 
-### Require Software:
+### Required Software:
 - `OpenSSL:` Ensure that OpenSSL is installed and accessible from your terminal/command prompt. To verify that OpenSSL is installed correctly, run the following command in your terminal or command prompt 
 
 ```bash
